@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="amos-xfce-bspwm"
-iso_label="amos-xfce-bspwm-v22.08.01"
-iso_application="AmOs Live/Rescue CD"
+iso_name="amoslinux-xfce-bspwm"
+iso_label="amoslinux-xfce-bspwm-v22.08.01"
+iso_application="AmOs Linux Live/Rescue CD"
 iso_version="v22.08.01"
 install_dir="arch"
 buildmodes=('iso')
