@@ -1,4 +1,4 @@
-# amos-xfce-bspwm-iso
+# AmOs Linux-xfce-bspwm-iso
 
 With that github you can build your own amos-xfce-bspwm-iso
 A fully themed xfce desktop and a TWM  including 82 themes just a klick away
