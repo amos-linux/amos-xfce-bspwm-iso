@@ -690,12 +690,12 @@ xfce4-panel-profiles
 
 # Bspwm
 
-bspwm-patched
+bspwm
 amos-bspwm-git
 awesome-terminal-fonts
 conky-lua-archers-git
 sutils-git
-picom-git
+picom-ibhagwan-git
 polybar
 sxhkd
 lxappearance-gtk3
