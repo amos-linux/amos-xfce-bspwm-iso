@@ -11,3 +11,7 @@ If you don't want the default theme to load after a reboot,just take it out the 
 
 Download
 https://sourceforge.net/projects/amos-xfce-iso/
+
+Supporting The Project
+
+Please support the project by providing feedback via the support facilities provided on Sourceforge. 
