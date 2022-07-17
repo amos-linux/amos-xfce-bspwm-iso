@@ -690,7 +690,7 @@ xfce4-panel-profiles
 
 # Bspwm
 
-bspwm
+bspwm-patched
 amos-bspwm-git
 awesome-terminal-fonts
 conky-lua-archers-git
