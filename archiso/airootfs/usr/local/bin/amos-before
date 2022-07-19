@@ -7,7 +7,7 @@ echo "Populate Core Team keys"
 echo "#################################"
 pacman-key --init
 pacman-key --popolate archlinux
-#pacman-key --populate arcolinux
+pacman-key --populate arcolinux
 echo
 
 mkdir -p /boot/grub/themes
