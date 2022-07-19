@@ -15,7 +15,7 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	amosVersion='v22.08.02'
+	amosVersion='v22.08.03'
 
 	isoLabel='amoslinux-xfce-bspwm'$amosVersion'-x86_64.iso'
 
