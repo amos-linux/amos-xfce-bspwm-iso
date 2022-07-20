@@ -6,6 +6,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
+archlinux-keyring
 #archinstall
 #b43-fwcutter
 base
@@ -365,7 +366,7 @@ gnome-screenshot
 #gnome-software-packagekit-plugin
 gparted
 gpick
-#gtop
+gtop
 hardinfo-gtk3
 hblock
 hddtemp
@@ -448,8 +449,12 @@ zsh-syntax-highlighting
 mkinitcpio-openswap
 
 ###utilities-repo
+pamac-aur-git
+archlinux-appstream-data-pamac
+libpamac-git
 appstream
 archiso
+conky-lua-archers-git
 #glxinfo
 #gitahead
 grub-customizer
@@ -480,6 +485,7 @@ amos-common-git
 amos-cron-git
 amos-fonts-git
 am-fonts-pack-git
+amos-styles-walls-git
 #amos-sweet-icons-git
 #sweet-folders-git
 amos-gtk-themes-git
@@ -565,8 +571,8 @@ arcolinux-mirrorlist-git
 archlinux-tweak-tool-git
 archlinux-logout-git
 archlinux-logout-themes-git
-arcolinux-pamac-all
-brave-bin
+
+
 ###########################################################################
 #                           AMOS CONFIG FOLDER
 ###########################################################################
@@ -593,9 +599,8 @@ amos-system-installation-git
 ###########################################################################
 
 #amos-calamares-xfce-config
-#amos-calamares-xfce-config-dev
-amos-calamares-xfce-bspwm-config
-#amos-calamares-xfce-bspwm-config-dev
+amos-calamares-xfce-config-dev
+#amos-calamares-xfce-bspwm-config
 ###########################################################################
 #                                DISPLAY MANAGERS
 ###########################################################################
